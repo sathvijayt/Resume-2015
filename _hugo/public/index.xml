@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on Saadanan T | Resume 2015 </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 02 Jan 2015 21:37:04 EST</updated>
+    
+    <item>
+      <title>Resume 2015</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Fri, 02 Jan 2015 21:37:04 EST</pubDate>
+      
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;Saadanan V Thiagarajah | Resume 2015&lt;/p&gt;
+
+&lt;p&gt;+1-519-807-2600
+saadanan.t@gmail.com | saadanan@svt.x10.mx&lt;/p&gt;
+
+&lt;p&gt;480 McLevin Ave - Unit PH09
+Toronto, Ontario, Canada
+M1B 5N9&lt;/p&gt;
+
+&lt;p&gt;Summary of Qualifications&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Able to quickly and effectively troubleshoot a variety of networks (CCNA),
+server/workstations (A+), operating systems &amp;amp; software platforms.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;High proficiency developing in C/C++, Java &amp;amp; Python and
+extensive knowledge of their standard &amp;amp; 3rd-party libraries.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Can completely script &amp;amp; automate GNU/Linux &amp;amp; Microsoft Windows
+system administration tasks and familiar with system-level development in C.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ability to deploy and maintain Apache2/nginx/IIS servers and
+to to write Transact-SQL queries and procedures for MySQL5, MSSQL 2003-2005.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Practised in HTML5/CSS3 &amp;amp; JavaScript, allowing me to make
+fluid/responsive, standards-compliant, web applications.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Experience &amp;amp; Projects&lt;/p&gt;
+
+&lt;p&gt;Web Developer &amp;amp; Assistant Database Administrator, Voysus Group Inc., Toronto, Ontario, August 2009  January 2010
+* Responsible for the design, information structure and daily maintenance of the internet and intranet site
+* Coded web scripts and forms with ASP.Net (C#) and JavaScript
+* Created and maintained the on-floor statistics display for call centre agents using XML &amp;amp; Adobe Flash
+* Aided in maintaining server hardware &amp;amp; creating stored procedures to streamline call centre productivity with the database (MSSQL 2005)&lt;/p&gt;
+
+&lt;p&gt;.NET Software Developer, Abbott Point of Care, Ottawa, Ontario, January 2008  April 2008
+* Coded and optimized many database user defined functions and stored procedures in Transact-SQL
+* Developed several complex Microsoft SQL Server Reports on vast amounts of health-science data
+* Aided in the development of live production software designed to connect staff to the data store&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
